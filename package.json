@@ -35,7 +35,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys": "npm:baileys@^6.0.7",
+        "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@6.7.8",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "4.0.22-alpha.0",
         "@ibaraki-douji/pixivts": "*",
